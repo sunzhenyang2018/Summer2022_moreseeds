@@ -1,0 +1,200 @@
+
+ STATE 0:
+with fr 3, there are 3641 200 ms ISIs
+with fr 4, there are 4248 200 ms ISIs
+with fr 5, there are 4516 200 ms ISIs
+with fr 6, there are 5485 200 ms ISIs
+with fr 7, there are 5940 200 ms ISIs
+with fr 8, there are 5912 200 ms ISIs
+with fr 9, there are 6318 200 ms ISIs
+with fr 10, there are 5940 200 ms ISIs
+with fr 11, there are 6389 200 ms ISIs
+with fr 12, there are 5178 200 ms ISIs
+with fr 13, there are 5273 200 ms ISIs
+with fr 14, there are 5347 200 ms ISIs
+with fr 15, there are 5362 200 ms ISIs
+with fr 20, there are 1815 200 ms ISIs
+with fr 21, there are 1315 200 ms ISIs
+with fr 23, there are 714 200 ms ISIs
+with fr 24, there are 443 200 ms ISIs
+with fr 25, there are 219 200 ms ISIs
+
+ STATE 1:
+with fr 3, there are 2059 200 ms ISIs
+with fr 4, there are 2670 200 ms ISIs
+with fr 5, there are 3320 200 ms ISIs
+with fr 6, there are 3799 200 ms ISIs
+with fr 7, there are 5119 200 ms ISIs
+with fr 8, there are 5284 200 ms ISIs
+with fr 9, there are 6565 200 ms ISIs
+with fr 10, there are 7128 200 ms ISIs
+with fr 11, there are 8488 200 ms ISIs
+with fr 12, there are 9094 200 ms ISIs
+with fr 13, there are 8809 200 ms ISIs
+with fr 14, there are 8988 200 ms ISIs
+with fr 15, there are 8365 200 ms ISIs
+with fr 20, there are 4657 200 ms ISIs
+with fr 21, there are 3302 200 ms ISIs
+with fr 23, there are 1774 200 ms ISIs
+with fr 24, there are 1231 200 ms ISIs
+with fr 25, there are 942 200 ms ISIs
+
+ STATE 2:
+with fr 3, there are 1631 200 ms ISIs
+with fr 4, there are 1843 200 ms ISIs
+with fr 5, there are 2234 200 ms ISIs
+with fr 6, there are 2536 200 ms ISIs
+with fr 7, there are 2859 200 ms ISIs
+with fr 8, there are 3573 200 ms ISIs
+with fr 9, there are 4178 200 ms ISIs
+with fr 10, there are 5155 200 ms ISIs
+with fr 11, there are 5802 200 ms ISIs
+with fr 12, there are 5833 200 ms ISIs
+with fr 13, there are 6663 200 ms ISIs
+with fr 14, there are 6953 200 ms ISIs
+with fr 15, there are 7960 200 ms ISIs
+with fr 20, there are 7803 200 ms ISIs
+with fr 21, there are 6560 200 ms ISIs
+with fr 23, there are 5083 200 ms ISIs
+with fr 24, there are 4865 200 ms ISIs
+with fr 25, there are 3600 200 ms ISIs
+
+ STATE 3:
+with fr 3, there are 1044 200 ms ISIs
+with fr 4, there are 1053 200 ms ISIs
+with fr 5, there are 1478 200 ms ISIs
+with fr 6, there are 1902 200 ms ISIs
+with fr 7, there are 2146 200 ms ISIs
+with fr 8, there are 2759 200 ms ISIs
+with fr 9, there are 3164 200 ms ISIs
+with fr 10, there are 3691 200 ms ISIs
+with fr 11, there are 4300 200 ms ISIs
+with fr 12, there are 5029 200 ms ISIs
+with fr 13, there are 6247 200 ms ISIs
+with fr 14, there are 6124 200 ms ISIs
+with fr 15, there are 7050 200 ms ISIs
+with fr 20, there are 7739 200 ms ISIs
+with fr 21, there are 7680 200 ms ISIs
+with fr 23, there are 5741 200 ms ISIs
+with fr 24, there are 6009 200 ms ISIs
+with fr 25, there are 5226 200 ms ISIs
+
+ STATE 4:
+with fr 3, there are 379 200 ms ISIs
+with fr 4, there are 513 200 ms ISIs
+with fr 5, there are 552 200 ms ISIs
+with fr 6, there are 787 200 ms ISIs
+with fr 7, there are 1199 200 ms ISIs
+with fr 8, there are 1464 200 ms ISIs
+with fr 9, there are 1862 200 ms ISIs
+with fr 10, there are 2261 200 ms ISIs
+with fr 11, there are 3138 200 ms ISIs
+with fr 12, there are 3390 200 ms ISIs
+with fr 13, there are 4487 200 ms ISIs
+with fr 14, there are 5012 200 ms ISIs
+with fr 15, there are 5610 200 ms ISIs
+with fr 20, there are 8222 200 ms ISIs
+with fr 21, there are 7621 200 ms ISIs
+with fr 23, there are 6694 200 ms ISIs
+with fr 24, there are 6804 200 ms ISIs
+with fr 25, there are 5684 200 ms ISIs
+
+ STATE 5:
+with fr 3, there are 418 200 ms ISIs
+with fr 4, there are 366 200 ms ISIs
+with fr 5, there are 728 200 ms ISIs
+with fr 6, there are 655 200 ms ISIs
+with fr 7, there are 953 200 ms ISIs
+with fr 8, there are 1301 200 ms ISIs
+with fr 9, there are 1528 200 ms ISIs
+with fr 10, there are 1803 200 ms ISIs
+with fr 11, there are 2166 200 ms ISIs
+with fr 12, there are 2359 200 ms ISIs
+with fr 13, there are 2875 200 ms ISIs
+with fr 14, there are 3029 200 ms ISIs
+with fr 15, there are 3700 200 ms ISIs
+with fr 20, there are 6338 200 ms ISIs
+with fr 21, there are 5992 200 ms ISIs
+with fr 23, there are 6280 200 ms ISIs
+with fr 24, there are 6822 200 ms ISIs
+with fr 25, there are 6892 200 ms ISIs
+
+ STATE 6:
+with fr 3, there are 138 200 ms ISIs
+with fr 4, there are 143 200 ms ISIs
+with fr 5, there are 234 200 ms ISIs
+with fr 6, there are 307 200 ms ISIs
+with fr 7, there are 491 200 ms ISIs
+with fr 8, there are 607 200 ms ISIs
+with fr 9, there are 932 200 ms ISIs
+with fr 10, there are 1147 200 ms ISIs
+with fr 11, there are 1417 200 ms ISIs
+with fr 12, there are 1942 200 ms ISIs
+with fr 13, there are 2415 200 ms ISIs
+with fr 14, there are 2873 200 ms ISIs
+with fr 15, there are 3434 200 ms ISIs
+with fr 20, there are 6028 200 ms ISIs
+with fr 21, there are 5661 200 ms ISIs
+with fr 23, there are 5593 200 ms ISIs
+with fr 24, there are 6080 200 ms ISIs
+with fr 25, there are 5619 200 ms ISIs
+
+ STATE 7:
+with fr 3, there are 80 200 ms ISIs
+with fr 4, there are 67 200 ms ISIs
+with fr 5, there are 116 200 ms ISIs
+with fr 6, there are 164 200 ms ISIs
+with fr 7, there are 290 200 ms ISIs
+with fr 8, there are 325 200 ms ISIs
+with fr 9, there are 592 200 ms ISIs
+with fr 10, there are 617 200 ms ISIs
+with fr 11, there are 871 200 ms ISIs
+with fr 12, there are 1160 200 ms ISIs
+with fr 13, there are 1608 200 ms ISIs
+with fr 14, there are 1946 200 ms ISIs
+with fr 15, there are 2372 200 ms ISIs
+with fr 20, there are 4614 200 ms ISIs
+with fr 21, there are 4218 200 ms ISIs
+with fr 23, there are 4768 200 ms ISIs
+with fr 24, there are 5116 200 ms ISIs
+with fr 25, there are 5090 200 ms ISIs
+
+ STATE 8:
+with fr 3, there are 21 200 ms ISIs
+with fr 4, there are 39 200 ms ISIs
+with fr 5, there are 61 200 ms ISIs
+with fr 6, there are 83 200 ms ISIs
+with fr 7, there are 140 200 ms ISIs
+with fr 8, there are 214 200 ms ISIs
+with fr 9, there are 264 200 ms ISIs
+with fr 10, there are 412 200 ms ISIs
+with fr 11, there are 559 200 ms ISIs
+with fr 12, there are 714 200 ms ISIs
+with fr 13, there are 1048 200 ms ISIs
+with fr 14, there are 1373 200 ms ISIs
+with fr 15, there are 1588 200 ms ISIs
+with fr 20, there are 3296 200 ms ISIs
+with fr 21, there are 3334 200 ms ISIs
+with fr 23, there are 3569 200 ms ISIs
+with fr 24, there are 3910 200 ms ISIs
+with fr 25, there are 3930 200 ms ISIs
+
+ STATE 9:
+with fr 3, there are 49 200 ms ISIs
+with fr 4, there are 32 200 ms ISIs
+with fr 5, there are 67 200 ms ISIs
+with fr 6, there are 88 200 ms ISIs
+with fr 7, there are 120 200 ms ISIs
+with fr 8, there are 166 200 ms ISIs
+with fr 9, there are 279 200 ms ISIs
+with fr 10, there are 297 200 ms ISIs
+with fr 11, there are 439 200 ms ISIs
+with fr 12, there are 497 200 ms ISIs
+with fr 13, there are 723 200 ms ISIs
+with fr 14, there are 831 200 ms ISIs
+with fr 15, there are 1062 200 ms ISIs
+with fr 20, there are 2212 200 ms ISIs
+with fr 21, there are 2473 200 ms ISIs
+with fr 23, there are 2992 200 ms ISIs
+with fr 24, there are 3163 200 ms ISIs
+with fr 25, there are 3248 200 ms ISIs

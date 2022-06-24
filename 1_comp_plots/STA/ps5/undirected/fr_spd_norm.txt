@@ -1,0 +1,208 @@
+
+ FR 0.5:
+IKa total spread: 549.1185019120961
+IKdrf total spread: 347.7186080517039
+Im total spread: 542.7097035474426
+Il total spread: 465.7687848562315
+INa total spread: 274.4153925136059
+Ih total spread: 549.8754067978357
+
+ FR 1.0:
+IKa total spread: 615.6476955888158
+IKdrf total spread: 405.92722708394814
+Im total spread: 541.3449016679509
+Il total spread: 545.8143850715832
+INa total spread: 340.49782073046924
+Ih total spread: 551.1986911486297
+
+ FR 2.0:
+IKa total spread: 675.4245950754071
+IKdrf total spread: 348.40627738694127
+Im total spread: 575.1989727825114
+Il total spread: 485.30455222840646
+INa total spread: 309.7160177231974
+Ih total spread: 620.9656420209842
+
+ FR 3:
+IKa total spread: 534.1902814551388
+IKdrf total spread: 365.9752939873607
+Im total spread: 585.0844727837018
+Il total spread: 490.9981199206194
+INa total spread: 297.38457186404037
+Ih total spread: 574.5883506638978
+
+ FR 4:
+IKa total spread: 604.0742243792342
+IKdrf total spread: 373.33716367836377
+Im total spread: 559.107421089702
+Il total spread: 536.4084615717661
+INa total spread: 322.14848287588495
+Ih total spread: 544.9763096077794
+
+ FR 5:
+IKa total spread: 557.3160818884552
+IKdrf total spread: 352.203247780478
+Im total spread: 553.2418327099949
+Il total spread: 466.8708275886785
+INa total spread: 315.98067618550505
+Ih total spread: 541.2830219473674
+
+ FR 6:
+IKa total spread: 666.6445074883212
+IKdrf total spread: 397.7919086596187
+Im total spread: 553.1858435244781
+Il total spread: 493.11561934991414
+INa total spread: 340.8948062402901
+Ih total spread: 593.9104551521946
+
+ FR 7:
+IKa total spread: 558.662656768327
+IKdrf total spread: 368.4945810538291
+Im total spread: 574.6937065737714
+Il total spread: 500.8597060620724
+INa total spread: 305.1220877028181
+Ih total spread: 572.5865770083885
+
+ FR 8:
+IKa total spread: 609.1394657965176
+IKdrf total spread: 331.0370126416513
+Im total spread: 580.753180390717
+Il total spread: 472.07584084209293
+INa total spread: 285.38216567332483
+Ih total spread: 584.7984568458587
+
+ FR 9:
+IKa total spread: 648.6756527727272
+IKdrf total spread: 370.932413494597
+Im total spread: 582.7847535777645
+Il total spread: 488.6363702044981
+INa total spread: 329.4276969061047
+Ih total spread: 671.4735817874356
+
+ FR 10:
+IKa total spread: 517.0163943648746
+IKdrf total spread: 342.34813942779266
+Im total spread: 581.3399427992907
+Il total spread: 475.2228636303996
+INa total spread: 280.3179880796856
+Ih total spread: 579.21231959764
+
+ FR 11:
+IKa total spread: 530.7483899585421
+IKdrf total spread: 375.31247917063354
+Im total spread: 599.7679232002909
+Il total spread: 477.81165400320924
+INa total spread: 327.1855070523974
+Ih total spread: 607.0148371724257
+
+ FR 12:
+IKa total spread: 595.5921771427696
+IKdrf total spread: 370.6948910004296
+Im total spread: 597.843081879536
+Il total spread: 509.2116091140524
+INa total spread: 310.0229280094112
+Ih total spread: 630.9041611797295
+
+ FR 13:
+IKa total spread: 565.8939466213577
+IKdrf total spread: 369.1364314199726
+Im total spread: 601.888740675605
+Il total spread: 446.46713295221355
+INa total spread: 306.94353894836536
+Ih total spread: 548.6212566030363
+
+ FR 14:
+IKa total spread: 668.9960634549434
+IKdrf total spread: 356.4723204101539
+Im total spread: 626.5485828602168
+Il total spread: 493.2086122996278
+INa total spread: 302.53916245180505
+Ih total spread: 654.7983695620344
+
+ FR 15:
+IKa total spread: 634.6900876470397
+IKdrf total spread: 364.3288416111859
+Im total spread: 637.3340055055146
+Il total spread: 512.540085637002
+INa total spread: 301.86000665387087
+Ih total spread: 633.8613059003958
+
+ FR 16:
+IKa total spread: 539.1377369227291
+IKdrf total spread: 386.3377363268159
+Im total spread: 587.2202018174069
+Il total spread: 504.81171887349757
+INa total spread: 332.2639713787602
+Ih total spread: 607.9854573322585
+
+ FR 17:
+IKa total spread: 531.6472750034142
+IKdrf total spread: 364.86224854808154
+Im total spread: 600.2984993910974
+Il total spread: 451.56264670747225
+INa total spread: 308.93012219736295
+Ih total spread: 619.5969639543794
+
+ FR 18:
+IKa total spread: 502.5045463309608
+IKdrf total spread: 363.392169010946
+Im total spread: 579.9382774367073
+Il total spread: 468.18829532829363
+INa total spread: 303.24778501254264
+Ih total spread: 602.1635547576612
+
+ FR 19:
+IKa total spread: 588.5516524978193
+IKdrf total spread: 352.9454706406728
+Im total spread: 618.6268907557151
+Il total spread: 448.86821266094523
+INa total spread: 291.35956298283014
+Ih total spread: 629.083852056596
+
+ FR 20:
+IKa total spread: 628.5066222835931
+IKdrf total spread: 368.2337072567793
+Im total spread: 618.3637670499461
+Il total spread: 459.94221284859077
+INa total spread: 316.0180236042237
+Ih total spread: 679.3632611991839
+
+ FR 21.0:
+IKa total spread: 622.9172601520623
+IKdrf total spread: 363.1496825675438
+Im total spread: 690.6696431149763
+Il total spread: 450.3404036570894
+INa total spread: 310.4464919144373
+Ih total spread: 628.7895938055017
+
+ FR 22.0:
+IKa total spread: 593.8450733889019
+IKdrf total spread: 387.37055684030213
+Im total spread: 629.0443583751252
+Il total spread: 469.0854893685728
+INa total spread: 317.3202306308192
+Ih total spread: 691.4864271799627
+
+ FR 23.0:
+IKa total spread: 598.6081719720385
+IKdrf total spread: 389.6500862892766
+Im total spread: 620.8370707106905
+Il total spread: 434.57235825002135
+INa total spread: 329.1235987615534
+Ih total spread: 666.4601431292331
+
+ FR 24.0:
+IKa total spread: 681.2355960478803
+IKdrf total spread: 408.0709969732634
+Im total spread: 649.5856187317659
+Il total spread: 527.3722091332011
+INa total spread: 345.3494651978782
+Ih total spread: 701.6417420007504
+
+ FR 25:
+IKa total spread: 628.8901020140027
+IKdrf total spread: 385.9532498863792
+Im total spread: 642.2110315556456
+Il total spread: 455.5534283817883
+INa total spread: 332.49722893487547
+Ih total spread: 645.9043336021439

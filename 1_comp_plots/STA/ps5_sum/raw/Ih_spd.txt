@@ -1,0 +1,78 @@
+
+ FR 0.5:
+Ih total spread: 14.537455320844373
+
+ FR 1.0:
+Ih total spread: 16.562114397224917
+
+ FR 2.0:
+Ih total spread: 15.524482569439522
+
+ FR 3:
+Ih total spread: 18.39663300995297
+
+ FR 4:
+Ih total spread: 16.695817266656643
+
+ FR 5:
+Ih total spread: 17.085920786855244
+
+ FR 6:
+Ih total spread: 17.543366324109066
+
+ FR 7:
+Ih total spread: 18.101822725990964
+
+ FR 8:
+Ih total spread: 17.00694626822103
+
+ FR 9:
+Ih total spread: 19.004831595603797
+
+ FR 10:
+Ih total spread: 17.694465226209704
+
+ FR 11:
+Ih total spread: 19.15384687591336
+
+ FR 12:
+Ih total spread: 19.56482865764407
+
+ FR 13:
+Ih total spread: 17.63282125257805
+
+ FR 14:
+Ih total spread: 20.08446668060727
+
+ FR 15:
+Ih total spread: 22.22057020196701
+
+ FR 16:
+Ih total spread: 21.01870990285726
+
+ FR 17:
+Ih total spread: 20.64079805609555
+
+ FR 18:
+Ih total spread: 20.66389915175901
+
+ FR 19:
+Ih total spread: 23.25593607776879
+
+ FR 20:
+Ih total spread: 22.640896888822812
+
+ FR 21.0:
+Ih total spread: 26.187675725081448
+
+ FR 22.0:
+Ih total spread: 27.380462185980743
+
+ FR 23.0:
+Ih total spread: 26.25144145178287
+
+ FR 24.0:
+Ih total spread: 28.185935863855896
+
+ FR 25:
+Ih total spread: 26.884382098902677
